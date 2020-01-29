@@ -1,2 +1,2 @@
 # solidaridad
-identifying farmers profiles
+Cotton India Cluster analysis.ipynb - uses k-mean clustering to identify farmers profiles
